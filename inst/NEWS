@@ -1,8 +1,8 @@
 PWMEnrich.Dmelanogaster.background package
 
 Version 2.0.0:
-	o Using motifs from MotifDb (instead of JASPAR)
+	o Using motifs from MotifDb (that contains all of JASPAR motifs)
 	o Background objects compatible with PWMEnrich 2.x
 
 Version 1.0.0:
-	o Initial release of the package
+	o Initial release of the package with JASPAR motifs
