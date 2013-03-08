@@ -6,9 +6,8 @@ Type: Package
 LazyLoad: yes
 Author: Robert Stojnic
 Description: PWMEnrich pre-compiled background objects for Drosophila melanogaster
-	and JASPAR insects motifs.
-Version: 1.0.1
+	and MotifDb D. melanogaster motifs.
+Version: 2.0.0
 biocViews: AnnotationData, Drosophila_melanogaster
-Date: 2012-05-23
-Depends: R (>= 2.10), methods, PWMEnrich
-Packaged: 2012-05-23 10:52:31 UTC; rainman
+Date: 2013-03-11
+Depends: methods, PWMEnrich
