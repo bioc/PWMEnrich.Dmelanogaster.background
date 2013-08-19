@@ -1,5 +1,9 @@
 PWMEnrich.Dmelanogaster.background package
 
+Version 2.1.0:
+	o Remove identical motifs present in multiple databases
+	o Use motif IDs as names of the PWM list
+
 Version 2.0.0:
 	o Using motifs from MotifDb (that contains all of JASPAR motifs)
 	o Background objects compatible with PWMEnrich 2.x
