@@ -10,6 +10,7 @@
 \alias{PWMPvalueCutoff1e2.dm3.MotifDb.Dmel}
 \alias{PWMPvalueCutoff1e3.dm3.MotifDb.Dmel}
 \alias{PWMPvalueCutoff1e4.dm3.MotifDb.Dmel}
+\alias{dm3.upstream2000}
 \docType{package}
 
 \title{
@@ -59,6 +60,9 @@
 \details{
 	All of these objects were created with the appropriate functions available in the \code{PWMEnrich} package (see Section 'See also'). We
 	recommend using these functions to generate backgrounds for a custom set of background sequences and/or DNA motifs. 
+	
+	This package also contains the 2kb upstream sequences for Drosophila genes (\code{dm3.upstream2000}) which were removed from the BSgenome.Dmelanogaster.UCSC.dm3 package
+	starting from Bioconductor version 3.0. 
 }
 
 \examples{

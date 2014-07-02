@@ -1,5 +1,8 @@
 PWMEnrich.Dmelanogaster.background package
 
+Version 3.0.0:
+    o Added dm3.upstream2000 to resolve interface change in BSgenome packages
+
 Version 2.1.0:
 	o Remove identical motifs present in multiple databases
 	o Use motif IDs as names of the PWM list
