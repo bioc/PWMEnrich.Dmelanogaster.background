@@ -6,7 +6,6 @@
 \alias{PWMLogn.dm3.MotifDb.Dmel}
 \alias{PWMCutoff4.dm3.MotifDb.Dmel}
 \alias{PWMCutoff5.dm3.MotifDb.Dmel}
-\alias{PWMGEV.dm3.MotifDb.Dmel}
 \alias{PWMPvalueCutoff1e2.dm3.MotifDb.Dmel}
 \alias{PWMPvalueCutoff1e3.dm3.MotifDb.Dmel}
 \alias{PWMPvalueCutoff1e4.dm3.MotifDb.Dmel}
@@ -39,9 +38,6 @@
   	JASPAR insects PWMs. The number of hits with smaller P-value than cutoff is counted in 10031 2kb Drosophila Melanogaster
   	(dm3) promoters. For each gene one promoter is taken (from the first transcript).
   	
-  	\item \code{PWMGEV.dm3.MotifDb.Dmel} - pre-compiled generalized extreme value (GEV) distribution with location, scale and
-  	shape parameters fitted using linear regression on fragments of size 200-2000bp on all unique 2kb Drosophila Melanogaster (dm3) 
-  	promoters. 
   }
 }
 
@@ -51,7 +47,6 @@
 	data(PWMLogn.dm3.MotifDb.Dmel)
 	data(PWMCutoff4.dm3.MotifDb.Dmel)
 	data(PWMCutoff5.dm3.MotifDb.Dmel)
-	data(PWMGEV.dm3.MotifDb.Dmel)
 	data(PWMPvalueCutoff1e2.dm3.MotifDb.Dmel)
 	data(PWMPvalueCutoff1e3.dm3.MotifDb.Dmel)
 	data(PWMPvalueCutoff1e4.dm3.MotifDb.Dmel)
