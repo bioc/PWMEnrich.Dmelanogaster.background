@@ -7,7 +7,7 @@ LazyLoad: yes
 Author: Robert Stojnic
 Description: PWMEnrich pre-compiled background objects for Drosophila melanogaster
 	and MotifDb D. melanogaster motifs.
-Version: 4.23.3
+Version: 4.24.0
 biocViews: Drosophila_melanogaster_Data
 Date: 2015-09-30
 Depends: methods, PWMEnrich
